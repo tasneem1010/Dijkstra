@@ -1,4 +1,4 @@
-package com.example.graphs;
+package com.example.dijkstra;
 
 import javafx.application.Platform;
 import javafx.scene.Scene;

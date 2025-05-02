@@ -1,4 +1,4 @@
-package com.example.graphs;
+package com.example.dijkstra;
 
 import javafx.scene.shape.Circle;
 
